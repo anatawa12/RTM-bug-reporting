@@ -3,7 +3,8 @@
 原点から遠い(具体的には1.7万ブロック近く)位置にあるレールの土台(砂利)の描画が正しく行われません。
 動画も参照してください
 
-![チラチラする様子](./mc-recorded.mp4)
+<video src="./mc-recorded.mp4">
+</video>
 
 テストワールドはこちらです: [FarWorldTest](./FarWorldTest.zip)
 
